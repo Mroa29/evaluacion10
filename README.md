@@ -22,3 +22,6 @@ Te dejo el paso a paso
 - Cuando ya tengas creada la carpeta abre la consola con Windows + R y escribre cd "mas_la_ruta_de_tu_carpeta"
    Te dejo la imagen de ejemplo 
     ![Texto alternativo](img/captura1.png)
+- Una vez posicionado en la carpeta usa el siguiente comando "git clone https://github.com/Mroa29/evaluacion10"
+   Te dejo la imagen de ejemplo 
+    ![Texto alternativo](img/clonado_repositorio.png)
