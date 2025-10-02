@@ -2,6 +2,26 @@
 
 ---
 
+### Ademas te comento como es que puedes hacer subidas desde tu git paso a paso y como utilizar este modelo 
+
+# El primer paso es descargar el repositorio si asi lo deseas! 
+
+Te dejo el paso a paso 
+
+- Crea una carpeta en tu manica en donde alojaras el repositorio 
+
+- Cuando ya tengas creada la carpeta abre la consola con Windows + R y escribre cd "mas_la_ruta_de_tu_carpeta"
+   Te dejo la imagen de ejemplo 
+    ![Texto alternativo](img/captura1.png)
+
+- Una vez posicionado en la carpeta usa el siguiente comando "git clone https://github.com/Mroa29/evaluacion10"
+   Te dejo la imagen de ejemplo 
+    ![Texto alternativo](img/clonado_repositorio.png)
+
+- Y lugo puedes entrar desde la consola al repositorio cd repositorio
+
+---
+
 ### 📂 Modelo base 
 
 El repositorio incluye un **modelo inicial** en la carpeta `artifacts/model.pkl`.  
@@ -12,16 +32,3 @@ El repositorio incluye un **modelo inicial** en la carpeta `artifacts/model.pkl`
   curl -X POST http://127.0.0.1:8080/api/train -H "Content-Type: application/json" -d '{}'
   ```
 
-### Ademas te comento como es que puedes hacer subidas desde tu git paso a paso y como utilizar este modelo 
-
-# El primer paso es descargar el repositorio si asi lo deseas! 
-
-Te dejo el paso a paso 
-
-- Crea una carpeta en tu manica en donde alojaras el repositorio 
-- Cuando ya tengas creada la carpeta abre la consola con Windows + R y escribre cd "mas_la_ruta_de_tu_carpeta"
-   Te dejo la imagen de ejemplo 
-    ![Texto alternativo](img/captura1.png)
-- Una vez posicionado en la carpeta usa el siguiente comando "git clone https://github.com/Mroa29/evaluacion10"
-   Te dejo la imagen de ejemplo 
-    ![Texto alternativo](img/clonado_repositorio.png)
